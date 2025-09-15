@@ -1,0 +1,11 @@
+Data disimpan oleh: chairul
+Waktu penyimpanan: 2025-09-14 15:13:46
+--------------------------------------------------
+BIODATA TERSIMPAN:
+Diinput oleh: chairul
+
+Nama: Chairul 'Azmi Zuhdi Pramono
+NIM: 23106050024
+Jurusan: Informatika
+Alamat: Randugunting, Tamanmartani, Kalasan, Sleman
+Jenis Kelamin: Laki-Laki
