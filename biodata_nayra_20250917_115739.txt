@@ -1,0 +1,11 @@
+Data disimpan oleh: nayra
+Waktu penyimpanan: 2025-09-17 11:57:39
+--------------------------------------------------
+Nama: arham
+NIM: 23106050008
+Jurusan: Informatika
+Email: arham@gmail.com
+Telepon: 081234567890
+Tanggal Lahir: 13/04/2004
+Alamat: Muara Jawa
+Jenis Kelamin: Pria
