@@ -1,0 +1,73 @@
+2025-09-14 17:03:43 - INFO - Aplikasi dimulai
+2025-09-14 17:03:52 - INFO - User logout: None
+2025-09-14 17:09:06 - INFO - Aplikasi dimulai
+2025-09-14 17:09:45 - INFO - Aplikasi dimulai
+2025-09-14 17:10:09 - INFO - Login attempt for username: user1
+2025-09-14 17:10:09 - INFO - Successful login for user: user1
+2025-09-14 17:10:19 - INFO - User logout: user1
+2025-09-14 17:10:28 - INFO - Login attempt for username: admin
+2025-09-14 17:10:28 - INFO - Successful login for user: admin
+2025-09-14 17:10:45 - INFO - Aplikasi dimulai
+2025-09-14 17:11:01 - INFO - Login attempt for username: mahasiswa
+2025-09-14 17:11:01 - INFO - Successful login for user: mahasiswa
+2025-09-14 17:12:05 - INFO - Aplikasi dimulai
+2025-09-14 17:12:20 - INFO - Aplikasi dimulai
+2025-09-14 17:18:11 - INFO - Aplikasi dimulai
+2025-09-14 17:18:21 - INFO - Login attempt for username: nnjknjkn
+2025-09-14 17:18:21 - WARNING - Failed login attempt for username: nnjknjkn
+2025-09-14 17:18:26 - INFO - Login attempt for username: nnjknjkn
+2025-09-14 17:18:26 - WARNING - Empty credentials attempt for username: nnjknjkn
+2025-09-14 17:18:31 - INFO - Login attempt for username: nnjknjkn
+2025-09-14 17:18:31 - WARNING - Failed login attempt for username: nnjknjkn
+2025-09-14 17:18:52 - INFO - Login attempt for username: user1
+2025-09-14 17:18:52 - INFO - Successful login for user: user1
+2025-09-14 17:18:54 - INFO - Remembered username: user1
+2025-09-14 17:18:59 - INFO - User logout: user1
+2025-09-14 17:19:15 - INFO - Login attempt for username: user1
+2025-09-14 17:19:15 - INFO - Successful login for user: user1
+2025-09-14 17:19:17 - INFO - Remembered username: user1
+2025-09-14 17:19:27 - INFO - Aplikasi dimulai
+2025-09-14 17:22:47 - INFO - Aplikasi dimulai
+2025-09-14 17:23:01 - INFO - User logout: None
+2025-09-14 17:23:20 - INFO - Login attempt for username: user1
+2025-09-14 17:23:20 - INFO - Successful login for user: user1
+2025-09-14 17:23:21 - INFO - Remember file removed
+2025-09-14 17:29:28 - INFO - Aplikasi dimulai
+2025-09-14 17:29:38 - INFO - Application closed by user: None
+2025-09-14 17:30:04 - INFO - Aplikasi dimulai
+2025-09-14 17:30:20 - INFO - Login attempt for username: user1
+2025-09-14 17:30:20 - INFO - Successful login: user1
+2025-09-14 17:31:51 - INFO - Data submitted by user: user1 - NIM: 231001044144
+2025-09-14 17:31:58 - INFO - User logout: user1
+2025-09-14 17:32:02 - INFO - Application closed by user: None
+2025-09-14 17:33:16 - INFO - Aplikasi dimulai
+2025-09-14 17:37:32 - INFO - Aplikasi dimulai
+2025-09-14 17:40:55 - INFO - Aplikasi dimulai
+2025-09-14 17:43:00 - INFO - Aplikasi dimulai
+2025-09-14 17:43:15 - INFO - Aplikasi dimulai
+2025-09-14 17:46:12 - INFO - Aplikasi dimulai
+2025-09-14 17:46:19 - INFO - Login attempt for username: admin
+2025-09-14 17:46:19 - INFO - Successful login for user: admin
+2025-09-14 17:46:29 - INFO - Aplikasi dimulai
+2025-09-14 17:46:40 - INFO - Login attempt for username: user1
+2025-09-14 17:46:40 - INFO - Successful login for user: user1
+2025-09-14 17:47:09 - INFO - Aplikasi dimulai
+2025-09-14 17:47:47 - INFO - Login attempt for username: admin
+2025-09-14 17:47:47 - INFO - Successful login: admin
+2025-09-14 17:47:53 - INFO - Application closed by user: admin
+2025-09-14 17:48:21 - INFO - Aplikasi dimulai
+2025-09-14 17:48:28 - INFO - Login attempt for username: admin
+2025-09-14 17:48:28 - INFO - Successful login: admin
+2025-09-14 17:48:32 - INFO - Application closed by user: admin
+2025-09-14 17:53:08 - INFO - Aplikasi dimulai
+2025-09-14 17:53:15 - INFO - Aplikasi dimulai
+2025-09-14 17:58:29 - INFO - Aplikasi dimulai
+2025-09-14 17:59:02 - INFO - Aplikasi dimulai
+2025-09-14 17:59:15 - INFO - Login attempt for username: admin
+2025-09-14 17:59:15 - INFO - Successful login: admin
+2025-09-14 18:02:57 - INFO - Aplikasi dimulai
+2025-09-14 18:03:03 - INFO - Aplikasi dimulai
+2025-09-14 18:03:12 - INFO - Login attempt for username: admin
+2025-09-14 18:03:12 - INFO - Successful login for user: admin
+2025-09-14 18:06:21 - INFO - Aplikasi dimulai
+2025-09-14 18:08:27 - INFO - Aplikasi dimulai
